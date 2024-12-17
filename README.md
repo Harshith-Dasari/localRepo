@@ -1,2 +1,2 @@
-ReadMe file from LOCAL REPOS. 
+ReadMe file from LOCAL RePOS. 
 Hello World (from main branch).
